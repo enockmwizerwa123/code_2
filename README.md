@@ -1,2 +1,2 @@
 # code_2
-This code contains algorthims of PcA Fourier analysis and wavelet analysis
+This code contains algorthims of Principal Components Analysis, Fourier analysis and wavelet analysis
